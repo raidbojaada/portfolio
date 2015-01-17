@@ -47,19 +47,14 @@ if ($conn->connect_error) {
                 </li>
 
             </ul>
-            
-            
-            
+
             <ul class="list-group">
                 <li class="list-group-item">
                     
                                  
                 </li>
             </ul>
-            
-            
-            
-                       
+       
             <hr>
             
             <?php include 'helpFiles/footer.php'; ?>
