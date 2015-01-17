@@ -36,15 +36,30 @@ if ($conn->connect_error) {
             <ul class="list-group">
                 <li class="list-group-item">
                     <p>Social Media:</p>
-                    <br>
+                    
                     <form>
-                    <button><a href="https://twitter.com/RaiddB" target="_blank"/> <i class="fa fa-twitter"></i> Twitter</a></button>
-                    <p> </p>
-                    <button><a href="https://www.facebook.com/raid.hoeftniet" target="_blank"/> <i class="fa fa-facebook-square"></i> Facebook</a></button>
+                    <a href="https://twitter.com/RaiddB" target="_blank"/> <i class="fa fa-twitter-square fa-2x"></i> </a>
+                    <a href="https://www.facebook.com/raid.hoeftniet" target="_blank"/> <i class="fa fa-facebook-square fa-2x"></i> </a>
+                    <a href="https://github.com/raidbojaada/portfolio/tree/master" target="_blank"/> <i class="fa fa-github fa-2x"></i> </a>
+                    <a href="https://www.linkedin.com/profile/view?id=388468444&trk=nav_responsive_tab_profile_pic" target="_blank"/> <i class="fa fa-linkedin-square fa-2x"></i></a>
                     </form>
+                    
                 </li>
 
             </ul>
+            
+            
+            
+            <ul class="list-group">
+                <li class="list-group-item">
+                    
+                                 
+                </li>
+            </ul>
+            
+            
+            
+                       
             <hr>
             
             <?php include 'helpFiles/footer.php'; ?>
